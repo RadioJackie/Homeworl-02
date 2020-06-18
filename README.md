@@ -1,9 +1,11 @@
-# Homework-02
+# Homeworl-02
 
-Portfolio
+# Portfolio
 
-This is a Portfolio repository made to host my future projects.
+This is a responsive website built to host my repository in the future.
+
+# Technology Used
 
     HTML
     CSS
-    themed bootstrap from bootswatch
+    themes from bootstrap
