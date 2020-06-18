@@ -1,0 +1,21 @@
+.jumbotron { 
+    background-color: lightgrey;
+}
+
+.container { 
+    background-color: whitesmoke;
+}
+
+.body {
+    background-color: skyblue;
+}
+
+#me {
+    font-size: 30px;
+    background-color: skyblue;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
